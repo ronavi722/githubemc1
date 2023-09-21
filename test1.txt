@@ -1,2 +1,2 @@
 created test1.txt file
-poda soupu
+don't use bad words
